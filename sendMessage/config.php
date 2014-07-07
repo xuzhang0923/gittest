@@ -13,5 +13,5 @@
     
     $_session['error']="";
 	
-	//I use this for test, let see what will happens.
+	//Let' change this and see what will happens.
 ?>
